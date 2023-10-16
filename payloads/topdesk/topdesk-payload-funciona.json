@@ -1,0 +1,35 @@
+{
+  "id": "877ff84b-91be-4614-aa9d-b546e509c19d",
+  "request": "20/09/2023 15:07 Administrador da Ferramenta: \nInforme o assunto:\r\n- TEXTO\r\n\r\nInforme o motivo da solicitação:\r\n- TEXTO\r\n\r\nSelecione o ativo:\r\n- Aplicação de TI\r\n\r\nDetalhe o ativo:\r\n- TEXTO\r\n\r\nSelecione a periodicidade desejada:\r\n- Mensal\r\n\r\nInforme as partes interessadas:\r\n- GTI/SG\r\n\r\nDetalhe a solicitação:\r\n- A SAIDA DA VERACODE COM O QUE ENCONTROU DE VULNERABILIDADES", 
+  "caller": {
+    "id": "349ed95f-3d1f-4905-a6f8-38e8acb80df6",
+    "phoneNumber": "",
+    "branch": {
+      "id": "1c36847a-dde9-48d6-bc7d-230a30791754",      
+      "clientReferenceNumber": ""
+    }
+  },
+  "briefDescription": "Avaliar e tratar risco de segurança da informação",  
+  "callType": {
+    "id": "b46bd95d-1b4b-5667-bf6a-86531696c8cc"
+  },
+  "object": null,
+  "impact": {
+    "id": "8571eab3-83e8-53cc-9806-c4cc92e4add3"
+  },
+  "urgency": {
+    "id": "894b5cf8-72e5-4e26-9acd-5a9b13234a38"
+  },
+  "priority": {
+    "id": "cca45fc4-d6d5-439b-9ae4-beeed1a01c91"
+  },
+  "duration": {
+    "id": "ae667716-1d73-422d-a410-742e70f996c4"
+  },
+  "targetDate": "2023-09-27T13:07:00.000+0000",
+  "operator": null,
+  "operatorGroup": null,
+  "processingStatus": {
+    "id": "a3e2ad64-16e2-4fe3-9c66-9e50ad9c4d69"
+  }
+}

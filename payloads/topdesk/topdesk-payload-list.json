@@ -1,0 +1,387 @@
+{
+  "id": "877ff84b-91be-4614-aa9d-b546e509c19d",
+
+  "status": "firstLine",
+
+  "number": "I23092540",
+
+  "request": "20/09/2023 15:07 Administrador da Ferramenta: \nInforme o assunto:\r\n- TEXTO\r\n\r\nInforme o motivo da solicitação:\r\n- TEXTO\r\n\r\nSelecione o ativo:\r\n- Aplicação de TI\r\n\r\nDetalhe o ativo:\r\n- TEXTO\r\n\r\nSelecione a periodicidade desejada:\r\n- Mensal\r\n\r\nInforme as partes interessadas:\r\n- GTI/SG\r\n\r\nDetalhe a solicitação:\r\n- A SAIDA DA VERACODE COM O QUE ENCONTROU DE VULNERABILIDADES",
+
+  "requests": "/tas/api/incidents/id/877ff84b-91be-4614-aa9d-b546e509c19d/requests",
+
+  "action": "/tas/api/incidents/id/877ff84b-91be-4614-aa9d-b546e509c19d/actions",
+
+  "attachments": "/tas/api/incidents/id/877ff84b-91be-4614-aa9d-b546e509c19d/attachments",
+
+  "caller": {
+    "id": "349ed95f-3d1f-4905-a6f8-38e8acb80df6",
+
+    "dynamicName": "Administrador da Ferramenta",
+
+    "email": "helena.batista@bridgeconsulting.com.br",
+
+    "phoneNumber": "",
+
+    "mobileNumber": "",
+
+    "branch": {
+      "id": "1c36847a-dde9-48d6-bc7d-230a30791754",
+
+      "name": "Gerência de Tecnologia da Informação",
+
+      "clientReferenceNumber": "",
+
+      "timeZone": "",
+
+      "extraA": null,
+
+      "extraB": null
+    },
+
+    "department": {
+      "id": "ecf09249-9567-486e-8221-20688a345cbf",
+
+      "name": "Setor de Analise e Desenvolvimento de Planos"
+    },
+
+    "budgetHolder": {
+      "id": "a9047618-4271-49e3-9911-ce78a644b6aa",
+
+      "name": "Petros"
+    }
+  },
+
+  "callerBranch": {
+    "id": "1c36847a-dde9-48d6-bc7d-230a30791754",
+
+    "name": "Gerência de Tecnologia da Informação",
+
+    "clientReferenceNumber": "",
+
+    "timeZone": "",
+
+    "extraA": null,
+
+    "extraB": null
+  },
+
+  "callerLocation": null,
+
+  "branchExtraFieldA": null,
+
+  "branchExtraFieldB": null,
+
+  "briefDescription": "Avaliar e tratar risco de segurança da informação",
+
+  "externalNumber": "",
+
+  "category": {
+    "id": "659ef7ac-bb05-4ca4-9505-b4be5ce9aacf",
+
+    "name": "Serviço de TI"
+  },
+
+  "subcategory": {
+    "id": "d8341b60-07fe-44f8-b174-997f5eb2ca4d",
+
+    "name": "Segurança da informação"
+  },
+
+  "callType": {
+    "id": "b46bd95d-1b4b-5667-bf6a-86531696c8cc",
+
+    "name": "Solicitação"
+  },
+
+  "entryType": {
+    "id": "45558aef-d547-58c7-b4ab-134a67bb4c1e",
+
+    "name": "Portal"
+  },
+
+  "object": null,
+
+  "asset": null,
+
+  "branch": null,
+
+  "location": null,
+
+  "impact": {
+    "id": "8571eab3-83e8-53cc-9806-c4cc92e4add3",
+
+    "name": "Meu Setor"
+  },
+
+  "urgency": {
+    "id": "894b5cf8-72e5-4e26-9acd-5a9b13234a38",
+
+    "name": "Disponível"
+  },
+
+  "priority": {
+    "id": "cca45fc4-d6d5-439b-9ae4-beeed1a01c91",
+
+    "name": "Prioridade 1"
+  },
+
+  "duration": {
+    "id": "ae667716-1d73-422d-a410-742e70f996c4",
+
+    "name": "40 horas"
+  },
+
+  "actualDuration": 0,
+
+  "targetDate": "2023-09-27T13:07:00.000+0000",
+
+  "sla": {
+    "id": "2aae23d0-1b25-4920-b463-194f2532693c",
+
+    "responseTargetDate": null,
+
+    "targetDate": "2023-09-27T13:07:00.000+0000"
+  },
+
+  "onHold": false,
+
+  "onHoldDate": null,
+
+  "onHoldDuration": 0,
+
+  "feedbackMessage": null,
+
+  "feedbackRating": null,
+
+  "operator": {
+    "id": "1aa70431-39d3-4650-8f7e-13ba13946d12",
+
+    "status": "operatorGroup",
+
+    "name": "Squad SI Purple Team"
+  },
+
+  "operatorGroup": {
+    "id": "1aa70431-39d3-4650-8f7e-13ba13946d12",
+
+    "name": "Squad SI Purple Team"
+  },
+
+  "supplier": null,
+
+  "processingStatus": {
+    "id": "a3e2ad64-16e2-4fe3-9c66-9e50ad9c4d69",
+
+    "name": "Registrado"
+  },
+
+  "responded": false,
+
+  "responseDate": null,
+
+  "completed": false,
+
+  "completedDate": null,
+
+  "closed": false,
+
+  "closedDate": null,
+
+  "closureCode": null,
+
+  "timeSpent": 0,
+
+  "timeSpentFirstLine": 0,
+
+  "timeSpentSecondLine": 0,
+
+  "timeSpentPartial": 0,
+
+  "timeSpentLinkedPartials": 0,
+
+  "timeSpentSecondLineAndPartials": 0,
+
+  "itemCosts": 0.0,
+
+  "objectCosts": 0.0,
+
+  "costs": 0.0,
+
+  "escalationStatus": null,
+
+  "escalationReason": null,
+
+  "escalationOperator": null,
+
+  "callDate": "2023-09-20T18:07:45.000+0000",
+
+  "creator": null,
+
+  "creationDate": "2023-09-20T18:07:45.000+0000",
+
+  "modifier": {
+    "id": "06b73bbc-f58d-461e-8766-feb3bd9b9aa8",
+
+    "name": "Notificação Automática Topdesk"
+  },
+
+  "modificationDate": "2023-09-20T18:08:05.000+0000",
+
+  "majorCall": false,
+
+  "majorCallObject": null,
+
+  "publishToSsd": false,
+
+  "monitored": false,
+
+  "expectedTimeSpent": 0,
+
+  "archivingReason": null,
+
+  "mainIncident": null,
+
+  "optionalFields1": {
+    "boolean1": false,
+
+    "boolean2": false,
+
+    "boolean3": false,
+
+    "boolean4": false,
+
+    "boolean5": false,
+
+    "number1": 0.0,
+
+    "number2": 0.0,
+
+    "number3": 0.0,
+
+    "number4": 0.0,
+
+    "number5": 0.0,
+
+    "date1": null,
+
+    "date2": null,
+
+    "date3": null,
+
+    "date4": null,
+
+    "date5": null,
+
+    "text1": "",
+
+    "text2": "",
+
+    "text3": "",
+
+    "text4": "",
+
+    "text5": "",
+
+    "memo1": null,
+
+    "memo2": null,
+
+    "memo3": null,
+
+    "memo4": null,
+
+    "memo5": null,
+
+    "searchlist1": {
+      "id": "43b6a46a-51a8-4d52-baad-85cd94f55d45",
+
+      "name": "Tecnologia da Informação"
+    },
+
+    "searchlist2": {
+      "id": "185f9bac-91ef-4ebd-a331-932b8a2b1870",
+
+      "name": "Negócio"
+    },
+
+    "searchlist3": {
+      "id": "2cca3133-c2e0-4374-99d1-e9390916ef54",
+
+      "name": "Segurança da informação"
+    },
+
+    "searchlist4": {
+      "id": "dfe0b80c-68fb-411b-9bf0-39d0af1c9699",
+
+      "name": "Identificação/tratamento de risco de SI"
+    },
+
+    "searchlist5": null
+  },
+
+  "optionalFields2": {
+    "boolean1": false,
+
+    "boolean2": false,
+
+    "boolean3": false,
+
+    "boolean4": false,
+
+    "boolean5": false,
+
+    "number1": 0.0,
+
+    "number2": 0.0,
+
+    "number3": 0.0,
+
+    "number4": 0.0,
+
+    "number5": 0.0,
+
+    "date1": null,
+
+    "date2": null,
+
+    "date3": null,
+
+    "date4": null,
+
+    "date5": null,
+
+    "text1": "",
+
+    "text2": "",
+
+    "text3": "",
+
+    "text4": "",
+
+    "text5": "",
+
+    "memo1": null,
+
+    "memo2": null,
+
+    "memo3": null,
+
+    "memo4": null,
+
+    "memo5": null,
+
+    "searchlist1": null,
+
+    "searchlist2": null,
+
+    "searchlist3": null,
+
+    "searchlist4": null,
+
+    "searchlist5": null
+  },
+
+  "externalLinks": [],
+
+  "partialIncidents": []
+}
